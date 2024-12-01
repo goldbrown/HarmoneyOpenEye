@@ -5,26 +5,26 @@
         "name": "default",
         "type": "HarmonyOS",
         "material": {
-          "certpath": "C:\\Users\\Administrator\\.ohos\\config\\auto_debug_HarmoneyOpenEye_com.winwang.harmonyOpenEye_890086200300025242.cer",
-          "storePassword": "0000001B09E090AC4DBC3FC5F732D2D9C7F78FD6FDB2E722B3EDDA6BB67568E2AAC205C58E1A3503BE40BE",
+          "certpath": "/Users/goldbrown/.ohos/config/auto_debug_HarmoneyOpenEye_com.winwang.harmonyOpenEye_30086000551602333.cer",
+          "storePassword": "0000001BFACD1D6003AF06C5FEB90EE94EDE8DFDAD5C7400B4111BF3953F9FBC01F605C5010F43A78C482C",
           "keyAlias": "debugKey",
-          "keyPassword": "0000001B8E1CD5CE68AB68ED21B4523A81D97F92DFA59E96D894937BFB6F5918581ACE030224E9EB2508EC",
-          "profile": "C:\\Users\\Administrator\\.ohos\\config\\auto_debug_HarmoneyOpenEye_com.winwang.harmonyOpenEye_890086200300025242.p7b",
+          "keyPassword": "0000001B85A669BE10604C3974C65F4EF8959AA4956ABFC230146F83CFC30B0C84E29FDEA8EC3A7C2985F3",
+          "profile": "/Users/goldbrown/.ohos/config/auto_debug_HarmoneyOpenEye_com.winwang.harmonyOpenEye_30086000551602333.p7b",
           "signAlg": "SHA256withECDSA",
-          "storeFile": "C:\\Users\\Administrator\\.ohos\\config\\auto_debug_HarmoneyOpenEye_com.winwang.harmonyOpenEye_890086200300025242.p12"
+          "storeFile": "/Users/goldbrown/.ohos/config/auto_debug_HarmoneyOpenEye_com.winwang.harmonyOpenEye_30086000551602333.p12"
         }
       },
       {
         "name": "OpenEye",
         "type": "HarmonyOS",
         "material": {
-          "certpath": "/Users/winwang/.ohos/config/auto_debug_HarmoneyOpenEye_com.winwang.harmonyOpenEye_890086200300025242.cer",
-          "storePassword": "00000019A6FF3FFE6B235EEBC1F561A7DF3F0531964FB57F36407DD1E19F877459C525AD13D7A4FC14",
+          "certpath": "/Users/goldbrown/.ohos/config/auto_debug_HarmoneyOpenEye_com.winwang.harmonyOpenEye_30086000551602333.cer",
+          "storePassword": "0000001B24875080BBBF953528DB82572AD556160E88A0B956B0A9C10715EFFC049CB62FFEA41EA7C50782",
           "keyAlias": "debugKey",
-          "keyPassword": "00000019AEEC37D9C1C9929E26A62D25EE928910D20E4BB51A073D3C66D95054DD671C65330C29C646",
-          "profile": "/Users/winwang/.ohos/config/auto_debug_HarmoneyOpenEye_com.winwang.harmonyOpenEye_890086200300025242.p7b",
+          "keyPassword": "0000001B3818B94B9F8C470DBF2F060D5B512E15D5B10CC9EF1082E680E6A35D3B519E93FA2D7E29E971F9",
+          "profile": "/Users/goldbrown/.ohos/config/auto_debug_HarmoneyOpenEye_com.winwang.harmonyOpenEye_30086000551602333.p7b",
           "signAlg": "SHA256withECDSA",
-          "storeFile": "/Users/winwang/.ohos/config/auto_debug_HarmoneyOpenEye_com.winwang.harmonyOpenEye_890086200300025242.p12"
+          "storeFile": "/Users/goldbrown/.ohos/config/auto_debug_HarmoneyOpenEye_com.winwang.harmonyOpenEye_30086000551602333.p12"
         }
       }
     ],
